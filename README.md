@@ -35,11 +35,18 @@ Deployed cloud architecture using EC2, RDS, S3, IAM — a practical AWS Solution
 
 ---
 
-### 📊 WakaTime (Last 7 days)
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+### 📊 My WakaTime Stats (All Time)
+
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=SubashSaajan&layout=compact&theme=react&hide_border=true)
+
+---
+
+### ⚡ GitHub Stats
+
+![Subash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Subash-Saajan&show_icons=true&theme=react&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Subash-Saajan&layout=compact&theme=react&hide_border=true)
 
 ---
 
 ### 📫 Connect With Me
-[LinkedIn](https://linkedin.com/in/subashsaajan) • [GitHub](https://github.com/Subash-Saajan) • [Email](mailto:subashsaajan@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/subash-saajan/) • [GitHub](https://github.com/Subash-Saajan) • [Email](mailto:subashsaajan@gmail.com)
