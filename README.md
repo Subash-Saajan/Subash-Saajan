@@ -1,9 +1,10 @@
 # 👋 Hey, I'm Subash Saajan  
 ### Full-Stack & Android Developer | React • Node.js • Jetpack Compose • AWS  
 
-🚀 Passionate about building **scalable web & mobile applications** with clean code, cloud-first architecture, and great UI/UX.  
-💻 Love collaborating on open-source and learning from global dev communities.  
+I’m a Full-Stack Developer who enjoys building things that solve real problems and feel good to use. I like keeping things simple , clean UI, efficient backend, and code that’s easy to understand and maintain.
 
+I work mostly with React, Node.js, TypeScript, and Android (Jetpack Compose), and I’m also an AWS Certified Solutions Architect – Associate.
+Always eager to learn new tools and patterns to improve how I build — whether that’s refining component structure in React or improving app flow in Compose. I like working on products that have real impact, where I can grow as a developer and collaborate with people who care about quality.
 ---
 
 ### 🧠 Tech Stack
@@ -28,12 +29,6 @@ Deployed cloud architecture using EC2, RDS, S3, IAM — a practical AWS Solution
 
 ---
 
-### 🧰 Currently Working On
-- Expanding my **Portfolio Website** with React + TypeScript  
-- Learning advanced AWS DevOps (CI/CD, Docker, Serverless)  
-- Contributing to open-source Kotlin and React projects  
-
----
 
 ### 📊 My WakaTime Stats (All Time)
 
