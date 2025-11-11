@@ -62,7 +62,6 @@ Cloud-deployed event management system leveraging **AWS EC2, RDS, S3, and IAM**,
 ### ⚡ GitHub Insights  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Subash-Saajan&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subash-Saajan&layout=compact&theme=react&hide_border=true" alt="Top Languages" height="165"/>
 </p>
 
