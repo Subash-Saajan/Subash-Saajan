@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👋 Hey, I'm Subash Saajan  
+### Full-Stack & Android Developer | React • Node.js • Jetpack Compose • AWS  
 
-<!--
-**Subash-Saajan/Subash-Saajan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Passionate about building **scalable web & mobile applications** with clean code, cloud-first architecture, and great UI/UX.  
+💻 Love collaborating on open-source and learning from global dev communities.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Tech Stack
+**Frontend:** React, TypeScript, HTML, CSS, Tailwind, GSAP  
+**Backend:** Node.js, Express.js, REST APIs  
+**Mobile:** Android (Jetpack Compose, Kotlin, MVVM)  
+**Cloud:** AWS (EC2, S3, RDS, Lambda, IAM), Firebase (Auth, DB, Storage)  
+**Languages:** C++, Java, Python, Kotlin, JavaScript  
+
+---
+
+### 🧩 Featured Projects
+
+🔹 [**Anfed FPO Platform**](https://github.com/Subash-Saajan/Anfed)  
+Web platform for farmers using React + Firebase — includes event management, role-based auth, and Google Maps integration.  
+
+🔹 [**Grocery App (Android)**](https://github.com/Subash-Saajan/WeComms)  
+Android app built with Jetpack Compose + Firebase, featuring login, cart, and live sync.  
+
+🔹 [**Community Event Platform (AWS)**](https://github.com/Subash-Saajan/organise_event)  
+Deployed cloud architecture using EC2, RDS, S3, IAM — a practical AWS Solutions Architect demo.  
+
+---
+
+### 🧰 Currently Working On
+- Expanding my **Portfolio Website** with React + TypeScript  
+- Learning advanced AWS DevOps (CI/CD, Docker, Serverless)  
+- Contributing to open-source Kotlin and React projects  
+
+---
+
+### 📊 WakaTime (Last 7 days)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
+### 📫 Connect With Me
+[LinkedIn](https://linkedin.com/in/subashsaajan) • [GitHub](https://github.com/Subash-Saajan) • [Email](mailto:subashsaajan@gmail.com)
