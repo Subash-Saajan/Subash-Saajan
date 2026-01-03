@@ -51,21 +51,6 @@ Cloud-deployed event management system leveraging **AWS EC2, RDS, S3, and IAM**,
 
 ---
 
-### 📊 My WakaTime Stats (All Time)  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=SubashSaajan&layout=compact&theme=react&hide_border=true" alt="WakaTime Stats"/>
-</p>
-
----
-
-### ⚡ GitHub Insights  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subash-Saajan&layout=compact&theme=react&hide_border=true" alt="Top Languages" height="165"/>
-</p>
-
----
 
 ### 📫 Connect With Me  
 <p align="center">
