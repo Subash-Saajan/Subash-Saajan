@@ -1,8 +1,8 @@
 # Subash Saajan J
 
-Full-stack engineer from Tamil Nadu, India. I write TypeScript, Go and Python, and I like owning a feature all the way through: the database and APIs, the web or mobile screens people use, the AI parts inside, and the cloud it runs on.
+Full-stack engineer from Tamil Nadu, India, working in TypeScript, Go and Python. I see each feature through from start to finish, from the database and APIs to the screens people use and the servers they run on.
 
-**Right now** I'm a software engineer at Sentellent, an AI learning platform for teachers and students. I built its AI grading system and rebuilt its assistant as a LangGraph agent, with hybrid RAG over each course's material and an evaluation harness that catches drops in answer quality.
+**Currently**, on an AI learning platform for teachers and students (Sentellent), I designed the platform's key selling features: a complete AI grading system, and an AI assistant that can handle tasks across the platform, built as a LangGraph agent with hybrid RAG.
 
 ### Things I've built
 
@@ -12,7 +12,7 @@ Full-stack engineer from Tamil Nadu, India. I write TypeScript, Go and Python, a
 - **[Vadavai Matha](https://github.com/Subash-Saajan/Vadavai-Matha)**: a bilingual English and Tamil website for a historic shrine, built with Next.js.
 - **[ClipSmith](https://github.com/Subash-Saajan/ClipSmith)**: turns long YouTube videos into short clips with Whisper and an LLM, on a NestJS and BullMQ job queue.
 
-Most of my work and client code lives in private repos, so the list above says more than the repos below.
+Most of my code is in private repos, so the list above says more than the repos below.
 
 ### What I work with
 
