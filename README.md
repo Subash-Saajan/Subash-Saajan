@@ -1,66 +1,29 @@
-<h1 align="center">👋 Hey, I'm Subash Saajan</h1>
-<h3 align="center">Full-Stack & Android Developer | React • Node.js • Jetpack Compose • AWS</h3>
+# Subash Saajan J
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/subash-saajan/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:subashsaajan@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/Subash-Saajan"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
-</p>
+Full-stack engineer from Tamil Nadu, India. I write TypeScript, Go and Python, and I like owning a feature all the way through: the database and APIs, the web or mobile screens people use, the AI parts inside, and the cloud it runs on.
 
----
+**Right now** I'm a software engineer at Sentellent, an AI learning platform for teachers and students. I built its AI grading system and rebuilt its assistant as a LangGraph agent, with hybrid RAG over each course's material and an evaluation harness that catches drops in answer quality.
 
-### 👨‍💻 About Me  
-I’m a **Full-Stack Developer** who enjoys building things that solve real problems and feel good to use.  
-I believe in **simple design, clean UI, efficient backend**, and code that’s easy to maintain.  
+### Things I've built
 
-I work primarily with **React, Node.js, TypeScript**, and **Android (Jetpack Compose)**.  
-I’m also an **AWS Certified Solutions Architect – Associate**, passionate about scalable cloud architectures.  
+- **[PrintEz](https://printez.app)**: scan a QR code, upload a document, pay by UPI, collect the print. Go (Fiber) backend, Next.js site, and Go software for Raspberry Pi kiosks and print-shop PCs, with crash-safe print jobs and signed updates.
+- **[DR20 HomeCare](https://www.dr20.in)**: lead engineer on a healthcare booking app for a charitable trust. React Native app, NestJS and PostgreSQL backend, React admin console, Google Cloud.
+- **[Cortex](https://github.com/Subash-Saajan/cortex_agent)**: an email and calendar assistant on LangGraph and Gemini that drafts, and waits for you to confirm before it sends anything. Memory on pgvector; it ran on AWS, set up with Terraform.
+- **[Vadavai Matha](https://github.com/Subash-Saajan/Vadavai-Matha)**: a bilingual English and Tamil website for a historic shrine, built with Next.js.
+- **[ClipSmith](https://github.com/Subash-Saajan/ClipSmith)**: turns long YouTube videos into short clips with Whisper and an LLM, on a NestJS and BullMQ job queue.
 
-Always eager to learn new tools and patterns — whether that’s refining component structure in React or improving app flow in Compose.  
-I like working on products that create real impact, collaborating with teams that care about **quality and growth**.  
+Most of my work and client code lives in private repos, so the list above says more than the repos below.
 
----
+### What I work with
 
-### 🧠 Tech Stack  
+- **Languages:** TypeScript, Go, Python, SQL
+- **Frontend:** React, Next.js, React Native (Expo), Tailwind CSS
+- **Backend:** Go (Fiber), Node.js, NestJS, FastAPI, Flask
+- **Data and cloud:** PostgreSQL (pgvector, PostGIS), Redis, AWS, Google Cloud, Cloudflare, Docker, Terraform, GitHub Actions
+- **AI:** LangGraph agents, RAG, OpenAI, Gemini, LLM evaluation
 
-**Frontend:** React, TypeScript, HTML, CSS, Tailwind, GSAP  
-**Backend:** Node.js, Express.js, REST APIs  
-**Mobile:** Android (Jetpack Compose, Kotlin, MVVM)  
-**Cloud:** AWS (EC2, S3, RDS, Lambda, IAM), Firebase (Auth, DB, Storage)  
-**Languages:** C++, Java, Python, Kotlin, JavaScript  
+AWS Certified Solutions Architect (Associate). B.Tech in Computer Engineering (AI and Robotics) from VIT Chennai.
 
----
+### Find me
 
-### 🧩 Featured Projects  
-
-🔹 [**Anfed FPO Platform**](https://github.com/Subash-Saajan/Anfed)  
-Dynamic farmer-oriented web platform built with **React + Firebase** — includes event management, role-based auth, and Google Maps integration.  
-
-🔹 [**Grocery App (Android)**](https://github.com/Subash-Saajan/WeComms)  
-Android app built with **Jetpack Compose + Firebase**, featuring login, cart, and live data sync for a seamless shopping experience.  
-
-🔹 [**Community Event Platform (AWS)**](https://github.com/Subash-Saajan/organise_event)  
-Cloud-deployed event management system leveraging **AWS EC2, RDS, S3, and IAM**, showcasing scalable architecture and secure resource handling.  
-
----
-
-### ⚙️ Currently Working On  
-- Expanding my **Portfolio Website** using React + TypeScript  
-- Learning advanced **AWS DevOps (CI/CD, Docker, Serverless)**  
-- Contributing to open-source **Kotlin** and **React** projects  
-
----
-
-
-### 📫 Connect With Me  
-<p align="center">
-  <a href="https://www.linkedin.com/in/subash-saajan/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:subashsaajan@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/Subash-Saajan"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-
----
-
-<p align="center">
-  <i>“Striving for clean code, scalable design, and meaningful impact.”</i>
-</p>
+[subashsaajan.site](https://subashsaajan.site) · [Résumé](https://subashsaajan.site/resume.pdf) · [LinkedIn](https://www.linkedin.com/in/subash-saajan/) · subashsaajan@gmail.com
