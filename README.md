@@ -6,7 +6,7 @@ Full-stack engineer from Tamil Nadu, India, working in TypeScript, Go and Python
 
 ### Things I've built
 
-- **[PrintEz](https://printez.app)**: scan a QR code, upload a document, pay by UPI, collect the print. Go (Fiber) backend, Next.js site, and Go software for Raspberry Pi kiosks and print-shop PCs, with crash-safe print jobs and signed updates.
+- **[PrintEz](https://printez.app)**: scan a QR code, upload a document, pay by UPI, collect the print. Go (Fiber) backend, Next.js site, and a Windows app in Go for print shops that survives a crash or power cut without losing or double-printing a paid job.
 - **[DR20 HomeCare](https://www.dr20.in)**: lead engineer on a healthcare booking app for a charitable trust. React Native app, NestJS and PostgreSQL backend, React admin console, Google Cloud.
 - **[Cortex](https://github.com/Subash-Saajan/cortex_agent)**: an email and calendar assistant on LangGraph and Gemini that drafts, and waits for you to confirm before it sends anything. Memory on pgvector; it ran on AWS, set up with Terraform.
 - **[Vadavai Matha](https://github.com/Subash-Saajan/Vadavai-Matha)**: a bilingual English and Tamil website for a historic shrine, built with Next.js.
